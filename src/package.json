@@ -1,0 +1,11 @@
+{
+  "name": "reddit-reader",
+  "version": "0.1.0",
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "alexa-app": "^2.3.4",
+    "requests": "^0.1.7"
+  }
+}
